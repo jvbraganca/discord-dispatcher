@@ -1,6 +1,5 @@
-const botSettings = require("./settings.json");
 const Discord = require("discord.js");
-const prefix = botSettings.prefix;
+const prefix = "!";
 const snekfetch = require('snekfetch');
 const bot = new Discord.Client({disableEveryone: true,});
 bot.on("ready", async () => {
