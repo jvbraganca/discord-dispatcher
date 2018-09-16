@@ -37,7 +37,7 @@ WIP
 
 ## Authors
 
-* **Joao Braganca** - *Initial work* - [JvBraganca](https://github.com/jvbraganca)
+* **Joao Braganca** - [JvBraganca](https://github.com/jvbraganca)
 
 ## License
 
