@@ -35,7 +35,7 @@ WIP
 * [Aviation Weather REST API](https://avwx.rest) - Getting METAR/TAF from airports
 * [Discord.js](https://discord.js.org/#/) - discord.js is a powerful node.js module that allows you to interact with the Discord API very easily
 
-## Authors
+## Author
 
 * **Joao Braganca** - [JvBraganca](https://github.com/jvbraganca)
 
