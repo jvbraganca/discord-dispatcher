@@ -12,76 +12,33 @@ First of all, you need to invite me to you Discord server (must have admin power
 - Grant me the permission to join the serve;
 - All set!
 
-```
-Give examples
-```
 
 ### Installing
 
 Please, go to: [Discord Application page](https://discordapp.com/oauth2/authorize?client_id=490642659426304011&permissions=8&scope=bot) and authorize me to join you. 
 
-```
-Give the example
-```
+You should se me in your server after this step. Look for Dispatcher on the online list.
 
-And repeat
+![Screenshot of Discord](https://i.imgur.com/0SpiYhf.png)
 
-```
-until finished
-```
+## Running the bot
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Here you will find the list of all the commands that you can run with Dispatcher.
 
 ```
-Give an example
+WIP
 ```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+* [Snekfetch](https://snekfetch.js.org/) - Snekfetch is a fast, efficient, and user-friendly library for making HTTP requests.
+* [Aviation Weather REST API](https://avwx.rest) - Getting METAR/TAF from airports
+* [Discord.js](https://discord.js.org/#/) - discord.js is a powerful node.js module that allows you to interact with the Discord API very easily
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Joao Braganca** - *Initial work* - [JvBraganca](https://github.com/jvbraganca)
 
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
